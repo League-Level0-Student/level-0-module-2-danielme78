@@ -23,7 +23,7 @@ int startNum = Integer.parseInt(start);
 // 3. Change the countdown to use the new starting point
 		
 		// C 1. Print a countdown from 10 to 0 on the console
-	for (int i=start; i >= 0; i--) {
+	for (int i=startNum; i >= 0; i--) {
 		System.out.println(i);
 	}
 			// 4. Use the speak method to hear the countdown.
