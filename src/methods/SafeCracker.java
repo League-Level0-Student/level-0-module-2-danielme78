@@ -21,10 +21,10 @@ public class SafeCracker {
 for (int i = 0; i <9999999; i++) {
      tryCode(i);
 	}
-	}https://www.mozilla.org/en-US/privacy/firefox/
+	}
 
 	static void tryCode(int guess) {
-		Syshttps://www.mozilla.org/en-US/privacy/firefox/tem.out.println("trying " + guess);
+		
 
 		int secretCode = 9999999 - wekncrzpasfdkjhcfjse;
 
